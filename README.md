@@ -1,16 +1,19 @@
-## Hi there 👋
+<h2><strong>Hello, I'm Florian </strong>Web developer</h2>
 
-<!--
-**FlorianKuca/FlorianKuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Various techs I use</h3>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
 
-Here are some ideas to get you started:
+<h3>Where to find me</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/FlorianKuca"><img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/></a>
+<a href="https://www.linkedin.com/in/florian-kuca/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
+<a href="https://x.com/kucci16"><img width="48" height="48" src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="twitterx--v1"/></a>
+
+
+
+<p>Icons by <a href="https://icones8.fr/">Icons8</a></p>
