@@ -6,7 +6,6 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
 </p>
 <h3>Where to find me</h3>
