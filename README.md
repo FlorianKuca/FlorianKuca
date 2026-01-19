@@ -8,6 +8,7 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
 </p>
 <h3>Where to find me</h3>
 
